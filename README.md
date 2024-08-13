@@ -1,1 +1,3 @@
-# 1etteratura.github.oi
+# 1etteratura.github.io
+
+per ora, vedi `scripts/exposition.py`.
